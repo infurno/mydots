@@ -1,6 +1,6 @@
 # HalBor.land [NixOS] & [Home Manager] Configurations
 
-[NisOS]: https://nixos.org/
+[NixOS]: https://nixos.org/
 [Home Manager]: https://github.com/nix-community/home-manager
 
 This is a repository contains a my configuration files all of my computers.
